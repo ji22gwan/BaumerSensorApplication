@@ -1,0 +1,4 @@
+build/
+*.pgm
+*.ppm
+profile_*.csv
